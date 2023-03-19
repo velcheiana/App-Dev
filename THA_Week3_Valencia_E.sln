@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THA_Week3_Valencia_E", "THA_Week3_Valencia_E\THA_Week3_Valencia_E.csproj", "{7CDAB444-52B8-4AC4-B116-605A41330A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CDAB444-52B8-4AC4-B116-605A41330A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDAB444-52B8-4AC4-B116-605A41330A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDAB444-52B8-4AC4-B116-605A41330A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDAB444-52B8-4AC4-B116-605A41330A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAFCC5B8-56F2-4324-9550-F1EE4EEA296D}
+	EndGlobalSection
+EndGlobal
