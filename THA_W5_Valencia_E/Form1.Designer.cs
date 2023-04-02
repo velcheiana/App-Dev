@@ -93,6 +93,7 @@
             this.comboBox_Filter.Name = "comboBox_Filter";
             this.comboBox_Filter.Size = new System.Drawing.Size(78, 21);
             this.comboBox_Filter.TabIndex = 2;
+            this.comboBox_Filter.SelectedIndexChanged += new System.EventHandler(this.comboBox_Filter_SelectedIndexChanged_1);
             // 
             // DGV_Product
             // 
@@ -102,6 +103,8 @@
             this.DGV_Product.Name = "DGV_Product";
             this.DGV_Product.Size = new System.Drawing.Size(333, 187);
             this.DGV_Product.TabIndex = 3;
+            this.DGV_Product.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DGV_Product_CellClick);
+            this.DGV_Product.ColumnHeaderMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.DGV_Product_ColumnHeaderMouseClick_1);
             // 
             // lbl_Category1
             // 
@@ -121,6 +124,7 @@
             this.DGV_Category.Name = "DGV_Category";
             this.DGV_Category.Size = new System.Drawing.Size(176, 158);
             this.DGV_Category.TabIndex = 5;
+            this.DGV_Category.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DGV_Category_CellClick);
             // 
             // lbl_Details
             // 
