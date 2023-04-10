@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\bin\Debug\net6.0\THA_W1_Valencia_E.exe
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\bin\Debug\net6.0\THA_W1_Valencia_E.deps.json
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\bin\Debug\net6.0\THA_W1_Valencia_E.runtimeconfig.json
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\bin\Debug\net6.0\THA_W1_Valencia_E.dll
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\bin\Debug\net6.0\THA_W1_Valencia_E.pdb
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\obj\Debug\net6.0\THA_W1_Valencia_E.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\obj\Debug\net6.0\THA_W1_Valencia_E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\obj\Debug\net6.0\THA_W1_Valencia_E.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\obj\Debug\net6.0\THA_W1_Valencia_E.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\obj\Debug\net6.0\THA_W1_Valencia_E.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\obj\Debug\net6.0\THA_W1_Valencia_E.dll
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\obj\Debug\net6.0\refint\THA_W1_Valencia_E.dll
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\obj\Debug\net6.0\THA_W1_Valencia_E.pdb
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\obj\Debug\net6.0\THA_W1_Valencia_E.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\THA_W1_Valencia_E\THA_W1_Valencia_E\obj\Debug\net6.0\ref\THA_W1_Valencia_E.dll
