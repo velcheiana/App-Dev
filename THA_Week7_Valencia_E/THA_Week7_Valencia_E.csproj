@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{42CAE3F5-C2AD-4043-AE7D-1039E573305E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>THA_Week7_Valencia_E</RootNamespace>
+    <AssemblyName>THA_Week7_Valencia_E</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Film1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film1.Designer.cs">
+      <DependentUpon>Film1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film2.Designer.cs">
+      <DependentUpon>Film2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film3.Designer.cs">
+      <DependentUpon>Film3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film4.Designer.cs">
+      <DependentUpon>Film4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film5.Designer.cs">
+      <DependentUpon>Film5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film6.Designer.cs">
+      <DependentUpon>Film6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film7.Designer.cs">
+      <DependentUpon>Film7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film8.Designer.cs">
+      <DependentUpon>Film8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Film1.resx">
+      <DependentUpon>Film1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film2.resx">
+      <DependentUpon>Film2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film3.resx">
+      <DependentUpon>Film3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film4.resx">
+      <DependentUpon>Film4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film5.resx">
+      <DependentUpon>Film5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film6.resx">
+      <DependentUpon>Film6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film7.resx">
+      <DependentUpon>Film7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film8.resx">
+      <DependentUpon>Film8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
