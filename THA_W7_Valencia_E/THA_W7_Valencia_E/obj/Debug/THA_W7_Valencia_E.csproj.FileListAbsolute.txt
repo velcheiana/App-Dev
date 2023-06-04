@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\bin\Debug\THA_W7_Valencia_E.exe.config
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\bin\Debug\THA_W7_Valencia_E.exe
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\bin\Debug\THA_W7_Valencia_E.pdb
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.Form1.resources
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.exe
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.pdb
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.MovieSchedule.resources
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.Film1.resources
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.Film2.resources
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.Film3.resources
+C:\Users\Lenovo\source\repos\THA_W7_Valencia_E\THA_W7_Valencia_E\obj\Debug\THA_W7_Valencia_E.Film4.resources
